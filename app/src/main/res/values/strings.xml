@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Desert</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!--  在旗子图片长宽为40dp的条件下图片左上角距离旗尾的距离在屏幕的对应比例。  -->
+    <string name="flag_width_proportion">0.0277</string>
+    <string name="flag_height_proportion">0.052</string>
+    <!--  初始时的x、y坐标在屏幕的对应比例。  -->
+    <string name="base_camp_proportion_x">0.176</string>
+    <string name="base_camp_proportion_y">0.911</string>
+
+</resources>

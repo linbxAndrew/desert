@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomButton">
+
+        <!-- 圆角半径 -->
+        <attr name="radius" format="dimension" />
+        <!-- 背景颜色 -->
+        <attr name="normal_color" format="reference|color" />
+
+    </declare-styleable>
+
+</resources>
